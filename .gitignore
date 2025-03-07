@@ -1,0 +1,8 @@
+# Script de configuração do projeto
+
+setupcourse.sh
+
+# Chaves e configuração do ambiente
+
+.env
+.venv
