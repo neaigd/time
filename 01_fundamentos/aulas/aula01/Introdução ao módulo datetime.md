@@ -13,7 +13,7 @@ EMENTA: Python. Módulo datetime.  Manipulação de datas e horas. Tipos de dado
 2. Criar e formatar objetos de data e hora.  
 3. Realizar operações básicas (adição/subtração de dias).  
 
----
+---.
 
 ### **Conceitos e Código**  
 
@@ -23,6 +23,11 @@ O `datetime` é um módulo nativo do Python para manipulação de datas e horas 
 - Realizar cálculos (ex.: diferença entre datas).  
 - Formatá-las conforme padrões específicos (ex.: "dd/mm/yyyy").  
 
+Material de apoio: 
+
+William J. Turkel e Adam Crymble, "Reutilização de código e modularidade em Python", traduzido por Felipe Lamarca, Programming Historian em português 1 (2021), https://doi.org/10.46430/phpt0014.
+
+https://python.ic.ufrj.br/aulas/aula-11/index.html
 ---
 
 #### **2. Criando objetos `datetime`**  
