@@ -1,6 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-```markdown
 # 🕰️ Curso Python & IA: Domínio de Tempo, Prazos e Automação Jurídica
 
 <a href="https://chat.whatsapp.com/Imp8gTK8UR5JgAGSY19tzf" target="_blank">
@@ -101,13 +98,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE) - veja o arquivo deta
 ---
 
 *Arquitetura educacional desenvolvida pela IA QWQ32B sob orientação do Prof. Luiz Peixoto*
-``` 
 
-This README:
-- Uses legal/tech emojis for visual identity
-- Maintains the NIAD branding
-- Highlights key technical differentiators
-- Encourages collaboration
-- Links directly to community
-- Shows code examples relevant to legal tech
-- Credits the AI system properly
